@@ -48,3 +48,9 @@ Scan open ports on a system to detect potential vulnerabilities.
 - app.py : Flask web UI and report endpoints
 - templates/index.html : simple UI
 - reports/ : saved JSON reports
+
+---
+## Conclusion
+This Mini Port Scanner provides a lightweight, practical way to discover open TCP ports and gather basic service information — whether you need a quick local audit, a demo for learning, or a starting point for more advanced tooling. It combines fast socket-based checks with optional Nmap-powered enrichment, saves structured JSON reports for later analysis, and exposes a simple Flask UI and API for easy integration.
+
+Feel free to extend the scanner (rate-limiting, async scanning, more Nmap scripts, or authentication-aware probes), open issues or PRs with improvements, and always remember to only scan targets you own or have explicit permission to test.
