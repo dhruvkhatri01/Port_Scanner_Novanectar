@@ -37,7 +37,7 @@ Scan open ports on a system to detect potential vulnerabilities.
 4. Open `http://127.0.0.1:5000` in your browser.
 
 5. Output
-<p align="center"> <img src="port_scanner_terminal_demo.gif" alt="Terminal demo of Mini Port Scanner" width="800" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.2);" /> </p>
+<p align="center"> <img src="port_scanner_terminal_demo.gif" alt="Terminal demo of Mini Port Scanner" width="800";" /> </p>
 
 ## Security & Ethics
 - Only scan hosts you own or have explicit permission to test.
